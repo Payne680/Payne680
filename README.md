@@ -85,6 +85,12 @@ Here are some ideas to get you started:
         </span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/electron.svg">
       </td>
+       <td width="140px" align="center">
+        <span><strong>Electron</strong>
+        </span><br><br><br>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+      </td>
+
     </tr>
   </tbody>
 </table>
