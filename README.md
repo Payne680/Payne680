@@ -45,33 +45,12 @@ Here are some ideas to get you started:
         <span>Typescript</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg">
       </td>
-            <td width="140px" align="center">
-        <span>C</span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-  ### Designs Skills
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="140px" align="center">
-        <span>Figma</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/figma.svg">
-      </td>
-      <td width="140px" align="center">
-        <span>Photoshop</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/adobe-photoshop.svg">
-      </td>
     </tr>
   </tbody>
 </table>
 
 
-   ### Frontend Technology Skills
+  ### Frontend Technology Skills
 
 <table>
   <tbody>
@@ -105,21 +84,6 @@ Here are some ideas to get you started:
         <span><strong>Electron</strong>
         </span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/electron.svg">
-      </td>
-      <td width="140px" align="center">
-        <span><strong>Ionic</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/ionic-icon.svg">
-      </td>
-      <td width="140px" align="center">
-        <span><strong>Tailwind</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
-      </td>
-      <td width="140px" align="center">
-        <span><strong>Sass</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
       </td>
     </tr>
   </tbody>
