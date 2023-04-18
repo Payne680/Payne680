@@ -115,12 +115,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
         </span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/electron.svg">
       </td>
-       <td width="140px" align="center">
-        <span><strong>MySQL</strong>
-        </span><br><br><br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="64px"/>&nbsp;
-      </td>
-
+      
   </tbody>
 </table>
   
