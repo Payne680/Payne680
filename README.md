@@ -75,6 +75,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
         <span>Git</span><br><br><br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="90px" height="90vh"/>&nbsp;
       </td>
+       <td width="140px" align="center">
+        <span>C</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png">
+      </td>
     </tr>
   </tbody>
 </table>
@@ -109,6 +113,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
         <span><strong>CSS3</strong>
         </span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+       <td width="140px" align="center">
+        <span><strong>Tailwind</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
       </td>
       <td width="140px" align="center">
         <span><strong>Electron</strong>
