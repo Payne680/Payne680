@@ -48,13 +48,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ## Github Statistics 📈
 
-[![Penn's GitHub stats](https://github-readme-stats-q0g9gmahc-payne680.vercel.app/api?username=payne680&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/Payne680/Payne680)
+[![Penn's GitHub stats](https://github-readme-stats.vercel.app/api?username=payne680&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/Payne680/Payne680)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=payne680&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### 🔥 &nbsp;:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=payne680&theme=dark&background=000000)](https://git.io/streak-stats)
----
-
 
 <h2 align="Center">  Penn's Tech Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
   
