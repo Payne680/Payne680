@@ -136,6 +136,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
         </span><br><br><br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="90px" height="90vh"/>&nbsp;
       </td>
+       <td width="140px" align="center" background-color="#fff">
+        <span><strong>Express.js</strong>
+        </span><br><br><br>
+<img src="https://www.mementotech.in/assets/images/icons/express.png" title="ExpressJS"  alt="MySQL" width="90px" height="90vh" />&nbsp;
+      </td>
   </tbody>
 </table>
 
