@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </div>
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/PENN_JR4?s=08)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/penn-junior-a62824217)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/penn-junior)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/malonepenn?igshid=ZDdkNTZiNTM=)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/penn.malone.7)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">]()
@@ -42,7 +42,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Penn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/penn-junior-a62824217)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Penn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/penn-junior)
 
 ---
 
