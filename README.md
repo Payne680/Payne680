@@ -4,10 +4,10 @@ Hi 👋 My name is Penn Junior
 Software Engineer
 -----------------
 
-I've been enjoying web development for the first time ever since I built my first React.js app "Food Recipe". Am currently on the look out for a new role in front-end development, ideally writing JavaScript or TypeScript. I'd especially love to work at a startup on tight knit team where I can make an impact quickly. If you're hiring let's chat!
+I've been enjoying web development for the first time ever since I built my first React.js app "Food Recipe". Am currently on the look out for a new role in front-end development, ideally writing JavaScript or TypeScript. I'd especially love to work at a startup on a tight knit team where I can make an impact quickly. If you're hiring let's chat!
 
 * 🌍  I'm based in Cameroon, Yaounde
-* 🖥️  See my portfolio at [Penn](http://github.com/Payne680)
+* 🖥️  See my portfolio at [Penn Junior](https://penn-junior.vercel.app/)
 * ✉️  You can contact me at [pennjunior680@gmail.com](mailto:pennjunior680@gmail.com)
 * 🧠  I'm learning PHP and Python
 * 🤝  I'm open to collaborating on Interesting Projects.
