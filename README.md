@@ -9,7 +9,7 @@ I've been enjoying web development for the first time ever since I built my firs
 * 🌍  I'm based in Cameroon, Yaounde
 * 🖥️  See my portfolio at [Penn Junior](https://penn-junior.vercel.app/)
 * ✉️  You can contact me at [pennjunior680@gmail.com](mailto:pennjunior680@gmail.com)
-* 🧠  I'm learning PHP and Python
+* 🧠  I'm learning Python 🐍
 * 🤝  I'm open to collaborating on Interesting Projects.
 * ⚡  I love gaming and writing articles on my free time.
 
